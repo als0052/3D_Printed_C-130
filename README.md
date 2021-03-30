@@ -31,6 +31,8 @@ These files will use a form of the British small arms numbering system. Small ch
   - Small modifications to the Mk V design
 * Mk VI
   - Complete re-work of the Mk V design
+  - Different configurations instead of separate parts
+    - Might be causing stability issues in Solid Works... **Save often!!**
   - Uses combination of 3D printed 'keys' and metal fasteners
   - Re-work started after realization that printing the empennage in one piece is not going to work out without soluble support
   - Model is scaled in SolidWorks to 25% the original size from Shyam's 3D model
