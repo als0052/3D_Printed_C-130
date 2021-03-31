@@ -2,11 +2,13 @@
 -----
 * Created by als0052
 * Created on 03-30-2021
-* Updated on 03-30-2021
+* Updated on 03-31-2021
 -----
 
 # 2. TODO Items
 * Add print settings later once successful prints are made
+* Fix the offset issue for the Horizontal Stabilizer Key Extrusions so they line up properly with the empennage
+* Re-export the .stl file for Right and Left Horizontal Stabilizers
 
 # 3. Original C-130 Model:
 Author: [Shyam Murali](https://grabcad.com/library/iaf-lockheed-martin-c-130j-super-hercules-1)
